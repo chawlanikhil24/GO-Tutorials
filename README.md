@@ -17,3 +17,4 @@ Now, you are all set to GO.
 ```sh
 $ go run <code>.go
 ```
+####EVERYONE IS WELCOMED TO HAVE A LOOK AND CONTRIBUTE
