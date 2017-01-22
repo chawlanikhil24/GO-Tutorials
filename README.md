@@ -1,7 +1,7 @@
 # GO-Tutorials
 For everyone who wants to learn and try hands-on on the "Golang", I am uploading my practiced running code. So Everyone who wants to learn is welcomed and contribute as well.
 
-* How to install Go on Ubuntu:
+* How to install Go on Linux:
 
 ```sh
 $ sudo apt install golang(Ubuntu 16.04)
